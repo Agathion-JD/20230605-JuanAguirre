@@ -1,0 +1,500 @@
+   14  git log --online
+   15  git log --oneline
+   16  clear
+   17  clear
+   18  git branch
+   19  git log
+   20  CD C:\Users\danie\Desktop\Reto-1
+   21  CD C:
+   22  CD
+   23  CD C
+   24  c:
+   25  CD \Users\danie\Desktop\Reto-1
+   26  CD Users\danie\Desktop\Reto-1
+   27  CD Users\
+   28  cd
+   29  CD D
+   30  CD D/
+   31  CD Users\
+   32  CD Users\danie\
+   33  clear
+   34  cd c
+   35  C:\Users\danie\Desktop\Reto-1
+   36  C:\Users\danie\Desktop\Reto-1
+   37  cd C:\Users\danie\Desktop\Reto-1
+   38  cd C\Users\danie\Desktop\Reto-1
+   39  cd C\Users\danie\Desktop\Reto-1\
+   40  cd C/Users/danie/Desktop/Reto-1/
+   41  cd C/Users/danie/Desktop/Reto-1
+   42  cd C/Users/danie/
+   43  cd C/Users
+   44  cd C/Users
+   45  cd C/
+   46  cd 
+   47  cd d
+   48  clear
+   49  pwb
+   50  git --version
+   51  ls
+   52  cd desktop
+   53  ls
+   54  cd reto1
+   55  cd Reto1
+   56  cd reto-1
+   57  ls
+   58  git init
+   59  git status
+   60  git add .
+   61  dit status
+   62  git status
+   63  git commit -m "Primera version funcional de la pagina"
+   64  git status
+   65  git log
+   66  git status
+   67  cd
+   68  ls
+   69  documents
+   70  Documents
+   71  Documents/
+   72  ls
+   73  Documents/
+   74  cd Documents/
+   75  ls
+   76  cd git-y-github
+   77  ls
+   78  cd servidor
+   79  git init --bare
+   80  cd ..
+   81  cd ..
+   82  cd desktop
+   83  ls
+   84  cd ..
+   85  ls
+   86  cd desktop
+   87  ls
+   88  cd reto-1
+   89  git remote
+   90  clear
+   91  git remote add servidorlocal  C:/Users/danie/Documents/git-y-github/servid
+   92  git remote
+   93  git remote -v
+   94  git remote
+   95  git push servidorloca master
+   96  git push servidorlocal master
+   97  clear
+   98  git remote
+   99  git remote -v
+  100  cd ..
+  101  cd ..
+  102  ls
+  103  cd documents
+  104  cd git-y-github
+  105  cd servidor
+  106  git init --bare
+  107  cd ..
+  108  cd ..
+  109  cd ..
+  110  cd dsktop
+  111  ls
+  112  cd Desktop
+  113  cd reto-1
+  114  git remote
+  115  git add servidorlocal  C:/Users/danie/Documents/git-y-github/servidor/
+  116  git remote
+  117  git remote -v
+  118  git remote rm
+  119  git remote
+  120  git remote remove servidorlocal
+  121  git remote
+  122  git remote add servidorlocal  C:/Users/danie/Documents/git-y-github/servidor/
+  123  git remote
+  124  git remote -v
+  125  clear
+  126  git remote
+  127  git push servidorlocal master
+  128  ls
+  129  git status
+  130  git remote add origin https://github.com/Agathion73/Encriptador.git
+  131  git push origin master
+  132  git status
+  133  ls
+  134  dc desktop
+  135  cd desktop
+  136  ls
+  137  cd reto-1
+  138  git status
+  139  git add .
+  140  git status
+  141  git remote add origin https://github.com/Agathion73/Encriptador.git
+  142  git commit -m "Mejoras visuales en el texto de salida"
+  143  git remote add origin https://github.com/Agathion73/Encriptador.git
+  144  git status
+  145  git status
+  146  git add .
+  147  git status
+  148  git commit -m "Se agrego el boton copiar"
+  149  git remote
+  150  git push origin master
+  151  git status
+  152  git add .
+  153  git commit -m "Se agrego footer con datos del creador de la web"
+  154  git push origin master
+  155  ls
+  156  desktop
+  157  Desktop
+  158  cd desktop
+  159  cd reto1
+  160  cd reto-1
+  161  git push origin master
+  162  git add .
+  163  git status
+  164  git commit -m "Bloqueo de botones y texto resultado sin acentos"
+  165  git push origin master
+  166  git push origin gh-pages
+  167  git branch
+  168  git add .
+  169  git commit -m "etiqueta  agregada"
+  170  git push origin master
+  171  git add .
+  172  git commit -m "se agregaron media query"
+  173  git push origin master
+  174  git add .
+  175  git commit -m "Se agregaron elementos para el responsive"
+  176  git push origin master
+  177  git push origin master
+  178  git remote -v
+  179  git remote
+  180  git remote
+  181  git remove origin
+  182  git help
+  183  git remote mv
+  184  [200~ git remote set-url origin https://github.com/Agathion-JD/Encriptador.git
+  185  clear
+  186  git remote set-url origin https://github.com/Agathion-JD/Encriptador.git
+  187  git push origin master
+  188  git pull origin master
+  189  git status
+  190  cd desktop
+  191  cd reto-1
+  192  git pull origin master
+  193  git add .
+  194  git status
+  195  git add .
+  196  git add .
+  197  git commit -m "Comentarios y cambios finales"
+  198  git tag -a v0.1.0 -m "Lanzando la primera versión del encriptador"
+  199  git push origin master
+  200  git push origin v0.1.0
+  201  git status
+  202  cd
+  203  cd desktop
+  204  cd reto-1
+  205  git status
+  206  git add .
+  207  git status
+  208  git commit -m "Mejorando el responsive"
+  209  git push origin main
+  210  git push origin master
+  211  git add .
+  212  git commit -m "Mejorando el responsive"
+  213  git push origin master
+  214  git reset --hard HEAD~2
+  215  cd desktop
+  216  cd reto-1
+  217  git add .
+  218  git commit -m "Mejorando el responsive"
+  219  git push origin master
+  220  git branch -m main
+  221  git push origin main
+  222  CD
+  223  /CD
+  224  CD/
+  225  cd desktop
+  226  cd desktop Challenge Java
+  227  git status
+  228  ls
+  229  challenge JAVA/
+  230  /challenge JAVA
+  231  challenge JAVA
+  232  cd desktop Challenge Java
+  233  [200~'Challenge JAVA'/
+  234  'Challenge JAVA'
+  235  ls
+  236  Challenge JAVA
+  237  cd Challenge JAVA
+  238  cd Challenge JAVA
+  239  cd 
+  240  desktop
+  241  /desktop
+  242  desktop/cd 
+  243  cd desktop
+  244  cd desktop Challenge JAVA
+  245  cd Challenge JAVA
+  246  cd Challenge JAVA
+  247  ls
+  248  cd
+  249  cd /desktop/Challnge JAVA
+  250  cd /desktop/ChallngeJAVA
+  251  cd /desktop/Challnge JAVA
+  252  cd /desktop/Challnge JAVA
+  253  cd /desktop/Challnge JAVA
+  254  cd /desktop/Challnge JAVA
+  255  cd /desktop/Challenge-Java
+  256  cd /desktop/Challenge-Java
+  257  desktop
+  258  cd desktop
+  259  cd Challnge-Java
+  260  cd Challenge-java
+  261  cd
+  262  desktop
+  263  cd desktop
+  264  cd Challenge-Java
+  265  cd dsktop
+  266  cd desktop
+  267  cd Challenge-Java
+  268  git status
+  269  git add.
+  270  git add .
+  271  git add
+  272  git init
+  273  git status
+  274  git add.
+  275  git add
+  276  git add .
+  277  git status
+  278  git branch -m main
+  279  git status
+  280  git remote add origin https://github.com/Agathion-JD/challenge-java.git
+  281  git branch -M main
+  282  git pus -u origin main
+  283  git push -u origin main
+  284  git push -u origin main
+  285  git branch -b
+  286  git branch
+  287  git push origin main
+  288  git push 
+  289  git branch -M main
+  290  git branch -M 
+  291  git branch 
+  292  git push origin main
+  293  git push origin main
+  294  git status
+  295  git status
+  296  git add .
+  297  git status
+  298  git commit -m "Creacion del repositorio"
+  299  git push origin main
+  300  git reset --soft HEAD~1 
+  301  git reset HEAD~1 
+  302  git reset --soft HEAD~1
+  303  git status
+  304  git revert 
+  305  git comiits
+  306  cd
+  307  desktop
+  308  cd desktop
+  309  cd conversor
+  310  git remote add origin https://github.com/Agathion-JD/conversor.git
+  311  git add .
+  312  git init
+  313  git branch -M main
+  314  git remote add origin https://github.com/Agathion-JD/conversor.git~
+  315  git add .
+  316  git status
+  317  list
+  318  ls
+  319  cd desktop
+  320  ls
+  321  cd hotel_alura
+  322  git init
+  323  git status
+  324  git add .
+  325  git status
+  326  git commit -m "Packages de modelos,Dao y Util agregados, se agrego el archivo de persistencia" 
+  327  git branch -M main
+  328  branch
+  329  gti branch
+  330  git branch
+  331  git branch -a
+  332  [200~git remote add origin https://github.com/Agathion-JD/Hotel-Alura.git~
+  333  git remote add origin https://github.com/Agathion-JD/Hotel-Alura.git
+  334  git push -u origin main
+  335  git commit -m "agregadas las funciones de listar y buscar" 
+  336  git status
+  337  cd desktop
+  338  cd hotel_alura
+  339  git commit -m "agregadas las funciones de listar y buscar" 
+  340  git add .
+  341  git commit -m "agregadas las funciones de listar y buscar" 
+  342  git push -u origin main
+  343  cd dsktop
+  344  cd desktop
+  345  cd hotel_alura
+  346  git add .
+  347  git commit -m "se agregaron y corrigieron todas las funciones de la view busqueda"
+  348  git push -u origin main
+  349  git add .
+  350  git commit -m "correcciones de los metodos eliminar y buscar"
+  351  git push -u origin main
+  352  cd desktop
+  353  cd hotel_alura
+  354  git commit -m "Solucion de bugs y errores"
+  355  git add .
+  356  git commit -m "Solucion de bugs y errores"
+  357  git push -u origin main
+  358  cd desktop
+  359  cd hotel_alura
+  360  git add .
+  361  git commit -m "Mejorandos aspectos visuales"
+  362  git push -u origin main
+  363  git add .
+  364  git commit -m "Mejorandos aspectos visuales"
+  365  git push -u origin main
+  366  git pull
+  367  cd desktop
+  368  cd desktop
+  369  cd hotel_alura
+  370  git push -u origin main
+  371  cd
+  372  cd/desktop
+  373  ls
+  374  cd desktop
+  375  clear
+  376  mkdir Informes
+  377  cd informes
+  378  touch informeAnual.xls
+  379  ls
+  380  mkdir auditoria
+  381  touch auditoria.xls
+  382  touch reporteConsolidado.xls
+  383  ls
+  384  mv auditoria.xls auditoria/
+  385  cd auditoria
+  386  ls
+  387  cd desktop
+  388  mkdir dh
+  389  cd dh
+  390  mkdir repaso_clase_1y2
+  391  cd repaso_clase_1y2/
+  392  mkdir historia_de_la_contabilidad servidores interfaces_de_usuario que_haremos_hoy infraestructura
+  393  history
+  394  git init
+  395  clear
+  396  cd../
+  397  cd..
+  398  cd ..
+  399  clear
+  400  cd Introduccion_a_la\ informatica/
+  401  mkdir ejercicio1
+  402  cd ejercicio1/
+  403  cd ..
+  404  cd ..
+  405  clear
+  406  mkdir ejercicio1
+  407  cd ejercicio1/
+  408  git init
+  409  touch app.js
+  410  git status
+  411  git add app.js
+  412  git status
+  413  clear
+  414  cd ..
+  415  clear
+  416  mkdir mercadoAbierto
+  417  cd mercadoAbierto/
+  418  git init
+  419  touch productos.js
+  420  git status
+  421  git add productos.js
+  422  git status
+  423  git commit -m "mi primer commit"
+  424  git status
+  425  cd ..
+  426  clear
+  427  git clone https://github.com/Agathion-JD/Ejercicio2.git
+  428  cd Ejercicio2
+  429  touch app.js
+  430  git status
+  431  git add.js
+  432  git status
+  433  clear
+  434  cd .. 
+  435  clear
+  436  git clone https://github.com/Agathion-JD/Ejercicio2.git
+  437  cd Ejercicio2
+  438  touch app.js
+  439  git add app.js
+  440  git status
+  441  clear
+  442  cd ..
+  443  clear
+  444  git clone https://github.com/Agathion-JD/Ejercicio2.git
+  445  cd ejercicio2
+  446  touch app.js
+  447  git status
+  448  git add app.js
+  449  git status
+  450  git commit -m "mi primer commit"
+  451  git status
+  452  git push origin main 
+  453  git status
+  454  git --version
+  455  git commit -m "mi primer commit"
+  456  git config --global init.defaultBranch main
+  457  cd ss
+  458  cd desktop
+  459  cd ss
+  460  git init
+  461  cd desktop
+  462  cd desktop
+  463  mkdir foro-alura
+  464  git clone https://github.com/Agathion-JD/challenge-one-foro-alura.git
+  465  cd foro-alura/
+  466  git init
+  467  cd Desktop/
+  468  cd oracle/
+  469  cd Assets/
+  470  git clone https://github.com/Agathion-JD/Assets.git
+  471  git add .
+  472  cd ..
+  473  cd Assets/
+  474  cd ..
+  475  git clone https://github.com/Agathion-JD/Assets.git
+  476  cd Assets/
+  477  git add .
+  478  git commit -m "agregando imagenes de prueba del foro alura"
+  479  git push origin main
+  480  git add .
+  481  git push origin main
+  482  cd ..
+  483  cd Assets/
+  484  git add .
+  485  git commit
+  486  cd Desktop/
+  487  cd oracle/
+  488  cd Assets/
+  489  git commit -m "logo alura"
+  490  git add .
+  491  git status
+  492  git push origin main
+  493  git init
+  494  git remote add origin https://github.com/Agathion-JD/20230605-JuanAguirre.git
+  495  touch comandos.txt main.js index.html
+  496  git commit -m "coomit 01 de JuanAguirre"
+  497  git add .
+  498  git commit -m "coomit 01 de JuanAguirre"
+  499  git push origin main
+  500  git branch feature
+  501  git swithc feature
+  502  git switch feature
+  503  mkdir Hardware Software SeguridadInformatica
+  504  touch Hardware/resumen.txt
+  505  touch Software/resumen.txt
+  506  touch SeguridadInformatica/resumen.txt
+  507  git add .
+  508  git commit -m "commit 02 JuanAguirre"
+  509  git push origin feature
+  510  git checkout main
+  511  mv main.js resumenHardware.txt
+  512  mv index.html resumenSoftware.txt
+  513  history > comandos.txt 
